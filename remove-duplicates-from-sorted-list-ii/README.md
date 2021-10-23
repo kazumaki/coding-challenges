@@ -12,6 +12,7 @@ Example 1:
 
 Input: head = [1,2,3,3,4,4,5]
 Output: [1,2,5]
+
 Example 2:
 
 ![second linked list](linkedlist2.jpg)
